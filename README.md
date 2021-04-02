@@ -1,10 +1,10 @@
-## Hello world 👋 - I'm John, an Australia, Sydney-based Designer and Developer. 
+## Hello world 👋 - I'm John, a Sydney-based Designer and Developer. 
 
 ### Education 🎓 
-I graduated from the University of Sydney, completing a Bachelor of Design Computing from 2017 - 2020.
+I graduated from the [University of Sydney](https://www.sydney.edu.au/), completing a [Bachelor of Design Computing](https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-computing.html) from 2017 - 2020.
 
 ### Work 💼 
-I currently work at uno Home Loans as a Frontend Developer, which is which is part of the Westpac group (joined in October 2020). 
+I currently work at [uno Home Loans](https://unohomeloans.com.au) as a Frontend Developer, which is which is part of the [Westpac Group](https://www.westpac.com.au/about-westpac/westpac-group/). 
 Before working at uno, I was tutor, guest lecturer, designer and developer at the University of Sydney during my undergrad years and after graduating in 2020.
 
 ### Outside of Work 🏡
