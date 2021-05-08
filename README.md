@@ -8,8 +8,6 @@ I currently work at [uno Home Loans](https://unohomeloans.com.au) as a Frontend 
 Before working at uno, I was a tutor, guest lecturer, designer and developer at the University of Sydney during my undergrad years and after graduating in 2020.
 
 ### 🏡 Outside of Work
-📺 I'm an avid TV and Movie watcher - as such, I've ventured off to create my own TV Show tracker which is currently being built. Check out the repo here - https://github.com/JohnAntonios/schedtv.
-
 🎵 My music taste is broad and is a mixture of mainstream and underground. Recently, I built a minimal lyric searching website known as [lyrical](https://lyrical-web.netlify.app/) which focuses on best Web performance (not to be mistaken with singing performance), practices and accessibility.
 
 ### 📲 Contact 
