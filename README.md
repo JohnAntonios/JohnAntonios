@@ -1,4 +1,4 @@
-## Hello world 👋 - I'm John, a Sydney-based Designer and Developer. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+John+%F0%9F%98%84)](https://git.io/typing-svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAntonios&theme=tokyonight&hide=html,css&layout=compact)
 
