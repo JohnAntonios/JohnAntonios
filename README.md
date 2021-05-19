@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+John+%F0%9F%98%84)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAntonios&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAntonios&theme=tokyonight&hide=html,css,scss&layout=compact&custom_title=I%20speak%20in&card_width=800&langs_count=10)
 
 ### 🎓 Education  
