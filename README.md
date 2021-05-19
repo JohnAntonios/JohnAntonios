@@ -3,6 +3,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAntonios&theme=tokyonight&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAntonios&theme=tokyonight)
 
+I've been programming for: [![Years Badge](https://badges.pufler.dev/years/JohnAntonios)](https://badges.pufler.dev) now, but tbh number of years mean nothing 😄.
+
 ### 🎓 Education  
 I graduated from the [University of Sydney](https://www.sydney.edu.au/), completing a [Bachelor of Design Computing](https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-computing.html) from 2017 - 2020, with interdisciplinary electives in [Computer Science](https://www.sydney.edu.au/courses/subject-areas/major/computer-science3.html), [Data Science](https://www.sydney.edu.au/courses/subject-areas/major/data-science.html) and [Information Systems](https://www.sydney.edu.au/courses/subject-areas/major/information-systems2.html).
 
