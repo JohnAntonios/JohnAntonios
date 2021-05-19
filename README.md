@@ -1,6 +1,6 @@
 ## Hello world 👋 - I'm John, a Sydney-based Designer and Developer. 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAntonios&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAntonios&theme=tokyonight&hide=html&layout=compact)
 
 
 ### 🎓 Education  
