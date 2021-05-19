@@ -12,6 +12,8 @@ Before working at uno, I was a tutor, guest lecturer, designer and developer at 
 ### 🏡 Outside of Work
 🎵 My music taste is broad and is a mixture of mainstream and underground. Recently, I built a minimal lyric searching website known as [lyrical](https://lyrical-web.netlify.app/) which focuses on best Web performance (not to be mistaken with singing performance), practices and accessibility.
 
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3ov25egwp5ye51ffcadi9zqol&cover_image=true&theme=default)
+
 ### 📲 Contact 
 #### Email: antonios.john@gmail.com
 #### linkedIn: https://linkedin.com/in/john-antonios/
