@@ -1,6 +1,5 @@
 ## Hello world 👋 - I'm John, a Sydney-based Designer and Developer. 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohnAntonios&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAntonios&theme=tokyonight)
 
 
