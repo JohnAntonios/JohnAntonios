@@ -18,4 +18,4 @@ Before working at uno, I was a tutor, guest lecturer, designer and developer at 
 #### Email: antonios.john@gmail.com
 #### linkedIn: https://linkedin.com/in/john-antonios/
 
-You are the ![Visitor Count](https://profile-counter.glitch.me/JohnAntonios/count.svg) visitor!
+### You are the ![Visitor Count](https://profile-counter.glitch.me/JohnAntonios/count.svg) visitor!
