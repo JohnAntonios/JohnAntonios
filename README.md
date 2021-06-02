@@ -2,6 +2,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAntonios&theme=tokyonight&hide=html,css,scss&layout=compact&custom_title=I%20speak%20in&card_width=800&langs_count=10&hide_border=true)
 
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3ov25egwp5ye51ffcadi9zqol&cover_image=true&theme=default)
+
 ### 💼 Work 
 
 I currently work at [Sparesbox](https://www.sparesbox.com.au/) as a Senior Software Developer (Full Stack). 
@@ -9,8 +11,6 @@ I currently work at [Sparesbox](https://www.sparesbox.com.au/) as a Senior Softw
 Before working at Sparesbox, I worked at [uno Home Loans](https://unohomeloans.com.au) as a Frontend Developer.
 
 Before working at uno, I was a tutor, guest lecturer, designer and developer at the [University of Sydney](https://www.sydney.edu.au/) during my undergrad years and after graduating in 2020.
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3ov25egwp5ye51ffcadi9zqol&cover_image=true&theme=default)
 
 ### 🎓 Education  
 I graduated from the [University of Sydney](https://www.sydney.edu.au/), completing a [Bachelor of Design Computing](https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-computing.html) from 2017 to 2020, with interdisciplinary electives in [Computer Science](https://www.sydney.edu.au/courses/subject-areas/major/computer-science3.html), [Data Science](https://www.sydney.edu.au/courses/subject-areas/major/data-science.html) and [Information Systems](https://www.sydney.edu.au/courses/subject-areas/major/information-systems2.html).
