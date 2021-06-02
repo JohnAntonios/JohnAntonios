@@ -6,7 +6,7 @@
 
 I currently work at [Sparesbox](https://www.sparesbox.com.au/) as a Senior Software Developer (Full Stack). 
 
-Before working at Sparesbox, I worked at [uno Home Loans](https://unohomeloans.com.au) as a Frontend Developer, which is which is part of the [Westpac Group](https://www.westpac.com.au/about-westpac/westpac-group/). 
+Before working at Sparesbox, I worked at [uno Home Loans](https://unohomeloans.com.au) as a Frontend Developer.
 
 Before working at uno, I was a tutor, guest lecturer, designer and developer at the [University of Sydney](https://www.sydney.edu.au/) during my undergrad years and after graduating in 2020.
 
