@@ -6,7 +6,8 @@
 I graduated from the [University of Sydney](https://www.sydney.edu.au/), completing a [Bachelor of Design Computing](https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-computing.html) from 2017 to 2020, with interdisciplinary electives in [Computer Science](https://www.sydney.edu.au/courses/subject-areas/major/computer-science3.html), [Data Science](https://www.sydney.edu.au/courses/subject-areas/major/data-science.html) and [Information Systems](https://www.sydney.edu.au/courses/subject-areas/major/information-systems2.html).
 
 ### 💼 Work 
-I currently work at [uno Home Loans](https://unohomeloans.com.au) as a Frontend Developer, which is which is part of the [Westpac Group](https://www.westpac.com.au/about-westpac/westpac-group/). 
+
+I currently work at [Sparesbox](https://www.sparesbox.com.au/) as a Senior Software Developer (Full Stack). Before working at sparesbox, I worked at [uno Home Loans](https://unohomeloans.com.au) as a Frontend Developer, which is which is part of the [Westpac Group](https://www.westpac.com.au/about-westpac/westpac-group/). 
 Before working at uno, I was a tutor, guest lecturer, designer and developer at the University of Sydney during my undergrad years and after graduating in 2020.
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3ov25egwp5ye51ffcadi9zqol&cover_image=true&theme=default)
