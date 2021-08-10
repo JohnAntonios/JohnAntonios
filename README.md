@@ -6,7 +6,7 @@
 
 ### 💼 Work 
 
-I currently work at [Sparesbox](https://www.sparesbox.com.au/) as a Senior Software Developer (Full Stack). 
+I currently work at [Sparesbox](https://www.sparesbox.com.au/) as a Software Developer. 
 
 Before working at Sparesbox, I worked at [uno Home Loans](https://unohomeloans.com.au) as a Frontend Developer.
 
