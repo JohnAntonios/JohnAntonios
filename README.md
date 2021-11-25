@@ -13,7 +13,7 @@ Before working at Sparesbox, I worked at [uno Home Loans](https://unohomeloans.c
 Before working at uno, I was a tutor, guest lecturer, designer and developer at the [University of Sydney](https://www.sydney.edu.au/) during my undergrad years and after graduating in 2020.
 
 ### 🎓 Education  
-I graduated from the [University of Sydney](https://www.sydney.edu.au/), completing a [Bachelor of Design Computing](https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-computing.html) from 2017 to 2020, with interdisciplinary electives in [Computer Science](https://www.sydney.edu.au/courses/subject-areas/major/computer-science3.html), [Data Science](https://www.sydney.edu.au/courses/subject-areas/major/data-science.html) and [Information Systems](https://www.sydney.edu.au/courses/subject-areas/major/information-systems2.html).
+I graduated from the [University of Sydney](https://www.sydney.edu.au/), completing a [Bachelor of Design Computing](https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-computing.html) in 2020.
 
 ### 📲 Contact 
 #### Email: antonios.john@gmail.com
