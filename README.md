@@ -20,12 +20,6 @@ Before working at uno, I was a tutor, guest lecturer, designer and developer at 
 
 [https://houseprices.unohomeloans.com.au](https://houseprices.unohomeloans.com.au/) - a house prices search website built in my previous role at uno Home Loans.
 
-[https://epic.techlab.works](https://epic.techlab.works/) - a 360° virtual tour of the [EpicLab](https://www.instagram.com/epic_lab_/).
-
-[https://vsydney.techlab.works](https://vsydney.techlab.works/) - a virtual University of Sydney open day experience, digitising physical booths.
-
-[https://trends.techlab.works](https://trends.techlab.works) - a blog website for a team within the University of Sydney.
-
 ### 🎓 Education  
 I graduated from the [University of Sydney](https://www.sydney.edu.au/), completing a [Bachelor of Design Computing](https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-computing.html).
 
