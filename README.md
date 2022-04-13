@@ -12,14 +12,6 @@ Before working at Sparesbox, I worked at [uno Home Loans](https://unohomeloans.c
 
 Before working at uno, I was a tutor, guest lecturer, designer and developer at the [University of Sydney](https://www.sydney.edu.au/) during my undergrad years and after graduating in 2020.
 
-### 🖼 Projects
-
-[https://lyrical-web.netlify.app/](https://lyrical-web.netlify.app/) - a lyric-searching website built as a personal project.
-
-[https://4wd247.com](https://4wd247.com) - an e-commerce website built in my current role at Sparesbox.
-
-[https://houseprices.unohomeloans.com.au](https://houseprices.unohomeloans.com.au/) - a house prices search website built in my previous role at uno Home Loans.
-
 ### 🎓 Education  
 I graduated from the [University of Sydney](https://www.sydney.edu.au/), completing a [Bachelor of Design Computing](https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-computing.html).
 
